@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋, I am NIHARIKA SHARMA
+
+## I'm a CSE graduate.
+- 🌱 I’m currently learning ReactJS.
+- 👨‍💻 All of my projects are available at Github.
+- 📫 How to reach me sharmaniharika05571@gmail.com
 
 <!--
 **niha-sha0/niha-sha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
