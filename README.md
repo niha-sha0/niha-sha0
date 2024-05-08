@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React Js<br>🔭 All of my projects are available at GitHub<br>💬 Ask me about Front End<br>⚡ How to reach me sharmaniharika05571@gmail.com
+🔭 All of my projects are available at GitHub<br>💬 Ask me about Front End<br>⚡ How to reach me sharmaniharika05571@gmail.com
 
 
 ## 🌐 Socials:
